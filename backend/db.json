@@ -1,0 +1,227 @@
+{
+  "applicants": [
+    {
+      "id": "1",
+      "name": "Amina Bello",
+      "email": "amina@mail.com",
+      "program": "UI/UX",
+      "gpa": 3.9,
+      "status": "accepted",
+      "message": null,
+      "notes": "you have been accepted tester"
+    },
+    {
+      "id": "2",
+      "name": "John Okafore",
+      "email": "john@mail.com",
+      "program": "Frontend Development",
+      "gpa": 3.7,
+      "status": "pending",
+      "message": null
+    },
+    {
+      "id": "3",
+      "name": "Sarah Musa",
+      "email": "sarah@mail.com",
+      "program": "Backend Development",
+      "gpa": 3.8,
+      "status": "pending"
+    },
+    {
+      "id": "4",
+      "name": "David Ade",
+      "email": "david@mail.com",
+      "program": "Artificial Intelligence",
+      "gpa": 3.9,
+      "status": "accepted",
+      "message": "Congratulations! You have been accepted."
+    },
+    {
+      "id": "5",
+      "name": "Grace Obi",
+      "email": "grace@mail.com",
+      "program": "Frontend Development",
+      "gpa": 3.6,
+      "status": "pending",
+      "message": null
+    },
+    {
+      "id": "6",
+      "name": "Michael Dan",
+      "email": "michael@mail.com",
+      "program": "Backend Development",
+      "gpa": 2.1,
+      "status": "pending"
+    },
+    {
+      "id": "7",
+      "name": "Fatima Lawal",
+      "email": "fatima@mail.com",
+      "program": "UI/UX",
+      "gpa": 2.3,
+      "status": "pending",
+      "message": null
+    },
+    {
+      "id": "8",
+      "name": "Peter Okeke",
+      "email": "peter@mail.com",
+      "program": "Frontend Development",
+      "gpa": 2.4,
+      "status": "pending",
+      "message": null
+    },
+    {
+      "id": "9",
+      "name": "Blessing Nnamdi",
+      "email": "blessing@mail.com",
+      "program": "Artificial Intelligence",
+      "gpa": 2.2,
+      "status": "rejected",
+      "message": "Sorry, you did not meet the cutoff. Please apply next year."
+    },
+    {
+      "id": "10",
+      "name": "Samuel Yusuf",
+      "email": "samuel@mail.com",
+      "program": "Backend Development",
+      "gpa": 2,
+      "status": "pending"
+    },
+    {
+      "id": "11",
+      "name": "Hauwa Abdullahi",
+      "email": "hauwa@mail.com",
+      "program": "UI/UX",
+      "gpa": 3.1,
+      "status": "pending",
+      "notes": "",
+      "message": null
+    },
+    {
+      "id": "12",
+      "name": "Victor Chinedu",
+      "email": "victor@mail.com",
+      "program": "UI/UX",
+      "gpa": 3.2,
+      "status": "pending",
+      "message": null
+    },
+    {
+      "id": "13",
+      "name": "Mary Johnson",
+      "email": "mary@mail.com",
+      "program": "UI/UX",
+      "gpa": 3,
+      "status": "pending",
+      "message": null
+    },
+    {
+      "id": "14",
+      "name": "Daniel Uche",
+      "email": "daniel@mail.com",
+      "program": "Frontend Development",
+      "gpa": 3.3,
+      "status": "pending",
+      "notes": "js",
+      "message": null
+    },
+    {
+      "id": "15",
+      "name": "Esther Bassey",
+      "email": "esther@mail.com",
+      "program": "Frontend Development",
+      "gpa": 3.4,
+      "status": "pending",
+      "message": null
+    },
+    {
+      "id": "16",
+      "name": "Kelvin Obi",
+      "email": "kelvin@mail.com",
+      "program": "Frontend Development",
+      "gpa": 3.2,
+      "status": "pending",
+      "message": null
+    },
+    {
+      "id": "17",
+      "name": "Ibrahim Sadiq",
+      "email": "ibrahim@mail.com",
+      "program": "Backend Development",
+      "gpa": 3.3,
+      "status": "pending"
+    },
+    {
+      "id": "18",
+      "name": "Ruth Adebayo",
+      "email": "ruth@mail.com",
+      "program": "Artificial Intelligence",
+      "gpa": 3.5,
+      "status": "accepted",
+      "message": "Congratulations! You have been accepted."
+    },
+    {
+      "id": "19",
+      "name": "Chika Eze",
+      "email": "chika@mail.com",
+      "program": "Backend Development",
+      "gpa": 3.1,
+      "status": "pending"
+    },
+    {
+      "id": "20",
+      "name": "Abdul Rahman",
+      "email": "abdul@mail.com",
+      "program": "Artificial Intelligence",
+      "gpa": 3.4,
+      "status": "rejected",
+      "message": "Sorry, you did not meet the cutoff. Please apply next year."
+    },
+    {
+      "id": "21",
+      "name": "Abdul manar",
+      "email": "abdulm@mail.com",
+      "program": "Artificial Intelligence",
+      "gpa": 3.4,
+      "status": "rejected",
+      "message": "Sorry, you did not meet the cutoff. Please apply next year."
+    },
+    {
+      "id": "d9e7",
+      "name": "Ahmad",
+      "email": "ahmad@example.com",
+      "program": "UI/UX",
+      "gpa": "4.0",
+      "jambScore": "250",
+      "reason": "tester",
+      "status": "pending",
+      "message": null
+    },
+    {
+      "id": "5e23",
+      "name": "Hassan Ahmad",
+      "email": "ahmad@example.com",
+      "program": "Frontend Development",
+      "gpa": "4.8",
+      "jambScore": "300",
+      "reason": "to become the best",
+      "status": "pending",
+      "message": null
+    },
+    {
+      "id": "2aa3",
+      "name": "ahmad",
+      "email": "mail@123.com",
+      "program": "Backend Development",
+      "gpa": "3.6",
+      "jambScore": "250",
+      "reason": "no reason",
+      "status": "pending"
+    }
+  ],
+  "reviews": [],
+  "decisions": [],
+  "comments": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
